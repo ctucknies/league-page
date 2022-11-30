@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Average Joes. Not above average, not below average. Just Average Joes.</p>
+  <p>Average Joes. Not above average, not below average. Just Average.</p>
 `;
 
 /*   STEP 3   */
